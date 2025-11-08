@@ -1,96 +1,91 @@
-# 💍 Marriage Eligibility Checker
+💍 বিয়ের যোগ্যতা চেকার
 
-> *Because someone needed to automate the most basic math problem ever*
+কারও দরকার ছিল সবচেয়ে সহজ ম্যাথটা অটোমেট করার… তাই বানাইছি 😎
 
-## 🤔 What is this?
+🤔 এটা কী?
 
-This is a **REVOLUTIONARY** web application that answers humanity's most pressing question: 
+এই অ্যাপের একটাই লক্ষ্য:
 
-*"Is 18 greater than the number I just typed?"*
+"আমি টাইপ করা সংখ্যা 18 এর থেকে বড় নাকি?"
 
-Forget calculators. Forget common sense. We've got **GRADIENTS** and **ANIMATIONS** baby! 🎨✨
+ক্যালকুলেটর? ও ভুলে যান। কমন সেন্স? সেইটা এখানে নেই। আমরা দিয়েছি গ্রেডিয়েন্টস, অ্যানিমেশনস, আর চকচকে বাটন! 🎨✨
 
-## 🎯 Purpose
+🎯 উদ্দেশ্য
 
-The sole purpose of this masterpiece is to:
-- ✅ Check if you're old enough to get married (18+)
-- ✅ Help me learn JavaScript by writing the most beautiful 15 lines of code ever
-- ✅ Flex some sick UI/UX design skills
-- ✅ Make Bootstrap do the heavy lifting while I take all the credit
+✅ দেখব আপনি বিয়ের জন্য পাকা কি না (18+)
 
-## 🚀 Features
+✅ জাভাস্ক্রিপ্ট প্র্যাকটিস করতে
 
-- **Gradient backgrounds** that scream "I'm a professional developer"
-- **Smooth animations** because static websites are for peasants
-- **Circle indicators** that tell you YES or NO (revolutionary UX, I know)
-- **Hover effects** that serve no functional purpose but look COOL
-- **Your age input** gets judged faster than your life choices
+✅ UI/UX দেখাতে, যাতে সবাই অবাক হয়
 
-## 🛠️ Tech Stack
+✅ বুটস্ট্র্যাপকে কাজ করাতে, আর নিজের ক্রেডিট নিতে 😎
 
-- HTML (the boring one)
-- CSS (where the magic happens ✨)
-- JavaScript (my pride and joy - DO NOT TOUCH)
-- Bootstrap (doing all the responsive work while I pretend I'm smart)
+🚀 ফিচারস
 
-## 📱 Mobile Support
+গ্রেডিয়েন্ট ব্যাকগ্রাউন্ড – প্রফেশনাল vibes 💅
 
-### ⚠️ IMPORTANT WARNING ⚠️
+স্মুথ অ্যানিমেশনস – ফাংশনাল না, কিন্তু দেখলে ওয়াহ!
 
-**Listen up, smartphone warriors:**
+YES/NO সার্কেল – বয়স আপনার দ্রুত বিচার করে
 
-This website is *technically* responsive thanks to Bootstrap, which means it **WILL** work on your phone. 
+হোভার এফেক্ট – শুধুই লুকসের জন্য
 
-**HOWEVER...**
+ইনপুট করা সংখ্যা চেক হয় লাইফ চয়েসের মতো দ্রুত ⚡
 
-If you're crazy enough to open a marriage eligibility checker on your phone instead of using a proper computer or laptop, you need to reevaluate your life choices. 
+🛠️ টেক স্ট্যাক
 
-No media queries were written for mobile because:
-1. I'm lazy 
-2. You should be using a computer like a civilized human being
-3. Bootstrap's doing all the work anyway
-4. If you open this on mobile, you deserve whatever chaos awaits you
+HTML – বেসিক
 
-**Mobile users be warned:** The app works, but my disappointment in you is immeasurable. 📱😤
+CSS – যেখানেই জাদু হয় ✨
 
-## 💻 How to Use
+JavaScript – DO NOT TOUCH 🙏
 
-1. Open it on a **COMPUTER** (seriously)
-2. Type your age
-3. Click the button
-4. Watch circles light up like it's Christmas
-5. Congratulations, you now know if 18 is bigger than your number
+Bootstrap – রেসপন্সিভি করা, আমি লোভী 😎
 
-## 🎓 What I Learned
+📱 মোবাইল
 
-- JavaScript event listeners (I'm basically a senior dev now)
-- How to compare numbers (revolutionary stuff)
-- That gradients make everything look professional
-- Bootstrap is my best friend
-- People who use phones for web development make questionable decisions
+সতর্কবার্তা:
 
-## 🤝 Contributing
+Bootstrap আছে বলে মোবাইলেও কাজ করবে। কিন্তু যদি ফোনে খুলেন… আপনার লাইফ চয়েস নিয়ে আমি খুব চিন্তিত। 😤
 
-Want to improve this? Sure! But remember:
-- **DO NOT** touch my JavaScript. It's perfect.
-- You can mess with HTML/CSS all you want
-- Feel free to add more gradients (you can never have enough)
-- If you add media queries for mobile... why? Just why?
+💻 কিভাবে ব্যবহার করবেন
 
-## 📄 License
+কম্পিউটারে খুলুন (মোবাইলের দোষ আমার নয়)
 
-MIT License - Do whatever you want with this. Steal it. Improve it. Judge it. I don't care.
+আপনার বয়স টাইপ করুন
 
-Just remember: This project was born from laziness, powered by Bootstrap, and maintained by someone who refuses to write media queries.
+বাটন ক্লিক করুন
 
-## 🎪 Final Words
+সার্কেলগুলো লাইটআপ দেখুন 🎄
 
-This project exists because I wanted to learn JavaScript by building something. Is it practical? No. Is it necessary? Absolutely not. Does it have smooth animations and a gradient background? **YOU BET IT DOES.**
+জানুন 18 আপনার সংখ্যা থেকে বড় কি না
 
-If this helped you in any way, cool. If you laughed at my code, also cool. If you opened this on mobile... I'm watching you. 👀
+🎓 আমি শিখেছি
 
----
+Event listener – এখন আমি প্রায় সিনিয়র dev
 
-*Made with 💜 (and a lot of copy-pasting from Stack Overflow)*
+সংখ্যার তুলনা – দারুণ আবিষ্কার
 
-*P.S. - Yes, I know the variable names are basic. Yes, I know there are better ways to do this. But this is MY beautiful disaster and I'm proud of it.* 🎉
+গ্রেডিয়েন্ট সবকিছু প্রফেশনাল দেখায়
+
+Bootstrap – বেস্ট ফ্রেন্ড
+
+ফোনে কোড করা… questionable 😬
+
+🤝 অবদান
+
+JavaScript হস্তক্ষেপ করবেন না – পেরফেক্ট!
+
+HTML/CSS কাস্টমাইজ করতে পারেন
+
+গ্রেডিয়েন্ট যোগ করতে পারেন, কখনো কম হবে না
+
+মোবাইল media queries? কেন? শুধু কেন?
+
+📄 লাইসেন্স
+
+MIT – যা খুশি করতে পারেন। চুরি, উন্নতি, বিচার, সব।
+
+💜 দিয়ে বানানো (আর Stack Overflow থেকে কিছু কপি-পেস্ট করা 😅)
+
+P.S. ভ্যারিয়েবল নামগুলো বেসিক, আমি জানি। কিন্তু এই আমার সুন্দর বিশৃঙ্খলা, গর্বিত আমি! 🎉
