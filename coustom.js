@@ -1,19 +1,19 @@
-const button = document.getElementById("button");
+let button = document.getElementById("button");
 
-button.addEventListener("click", function(event) {
-    event.preventDefault(); 
-    let a = parseFloat(document.getElementById("inp").value);
-    const yesDiv = document.querySelector(".yes p");
-    const noDiv = document.querySelector(".no p");
+button.addEventListener("click", function(e) {
+  e.preventDefault();
+  let inputValue = document.getElementById("inp").value;
+  let number = parseFloat(inputValue);
+  let yesText = document.querySelector(".yes");
+  let noText = document.querySelector(".no");
 
-    yesDiv.style.display = "none";
-    noDiv.style.display = "none";
+  yesText.classList.remove("active");
+  noText.classList.remove("active");
 
-    if (a === 18) {
-        yesDiv.style.display = "block";
-    } else if (a < 18) {
-        noDiv.style.display = "block";
-    } else {
-        noDiv.style.display = "block";
-    }
+  if (number > 18) {
+    yesText.classList.add("active"); 
+  } 
+  else{
+    noText.classList.add("active"); 
+  } 
 });
