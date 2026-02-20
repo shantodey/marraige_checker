@@ -17,4 +17,14 @@ button.addEventListener("click", function(e) {
   } 
 });
 
-document.getElementById
+// document.getElementById('button').addEventListener('click',
+//   function(){
+//     const age=document.getElementById('inp').value
+//     console.log(age);
+//     if(age<18){
+//       alert('not Eligible for marriage')
+//     }else{
+//       alert(' Congratulations youre good to be married')
+//     }
+//   }
+// )
