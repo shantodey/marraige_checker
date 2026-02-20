@@ -1,5 +1,4 @@
 let button = document.getElementById("button");
-
 button.addEventListener("click", function(e) {
   e.preventDefault();
   let inputValue = document.getElementById("inp").value;
@@ -17,3 +16,5 @@ button.addEventListener("click", function(e) {
     noText.classList.add("active"); 
   } 
 });
+
+document.getElementById
